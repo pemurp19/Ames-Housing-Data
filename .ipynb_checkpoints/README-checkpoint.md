@@ -1,17 +1,5 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-### Problem:
-The Ames, IA housing market has a narrow range of home prices, which makes it difficult to run a profitable home flipping business in the city.
-
-### Problem Statement:
-As a data scientist for Iowa Development Company, I need to determine if a model can be developed from the Ames Tax Assessor’s data to identify homes that are currently undervalued and to prioritize renovations that will lead to the greatest profits at resale? 
-
-
----
-
-### Datasets
-
-
 Welcome to Project 2! It's time to start modeling.
 
 **Primary Learning Objectives:**
