@@ -33,7 +33,7 @@ The more predictive model included 213 features and 89% of variability in home p
 ---
 ![alt text](https://git.generalassemb.ly/pemurp96/project_2/blob/main/images/square_footage_corr.png)
 
-### Findings and Recommendations
+### Findings
 
 
 **Recommendations:**
