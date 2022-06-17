@@ -20,8 +20,6 @@ As a data scientist for Iowa Development Company, I need to determine if a model
 
 **Analysis**
 
-![image](https://media.git.generalassemb.ly/user/43395/files/5cd5f322-7a98-4398-b8a0-7a71018facd8)
-
 ![alt text](https://git.generalassemb.ly/pemurp96/project_2/blob/main/images/home_price_distribution.png)
 
 Narrow distribution of home prices in Ames makes it a tough market to flip homes in. Run linear regressoin models, starting with the most complex versions and simplifying. Iterating through interaction features and regularization methods, such as Ridge and Lasso regression. 
@@ -36,6 +34,7 @@ The more predictive model included 213 features and 89% of variability in home p
 ![alt text](https://git.generalassemb.ly/pemurp96/project_2/blob/main/images/square_footage_corr.png)
 
 ### Findings and Recommendations
+
 
 **Recommendations:**
 Look to buy homes in Somerset and Northridge Heights as these neighborhoods have the highest positive correlation to Sale price. Hence, when we’re looking to resell we’ll be able to maximize that location value. 
