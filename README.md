@@ -33,10 +33,8 @@ The more predictive model included 213 features and 89% of variability in home p
 ---
 ![alt text](https://git.generalassemb.ly/pemurp96/project_2/blob/main/images/square_footage_corr.png)
 
-### Findings
 
-
-**Recommendations:**
+### **Recommendations:**
 Look to buy homes in Somerset and Northridge Heights as these neighborhoods have the highest positive correlation to Sale price. Hence, when we’re looking to resell we’ll be able to maximize that location value. 
 
 Avoid homes that are located in Edwards, Iowa DOT and Rail Road, and Old Town(neighborhoods with the lowest negative correlation to Sale price). You can’t change the location of the home through renovation so want to make sure we’re well-positioned. 
@@ -45,5 +43,5 @@ Recommend expanding square footage as much as possible (specifically, we could f
 
 Additionally, improving the Kitchen should provide some nice returns. Holding all other variables constant, the effect of having an excellent kitchen contributes to a more than $27,000 increase in a home’s value relative to a poor quality kitchen. That’s almost 20% of the median home value of $157,000. 
 
-**Conclusion:** 
+### **Conclusion:** 
 This data set provides a solid starting point for the purposes of Iowa Development Co.’s investment projects specifically in Ames. However to further enhance it’s predictive power and expand it’s application to other Iowa cities, it would be valuable to know the conditions behind each sale - were any of these sales between family members or foreclosures, for instance, that would be outliers and throw off the model’s predictive ability. Importantly, Ames is a college town - this could also make the model less applicable to other suburban towns or small cities which don’t have as much college student housing. 
