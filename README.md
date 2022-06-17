@@ -14,7 +14,7 @@ As a data scientist for Iowa Development Company, I need to determine if a model
 * [`train.csv`](./data/train.csv): Ames, IA Housing Data 2006-2010
 * [`test_ca.csv`](./data/test_ca.csv): Ames, IA Housing Data 2006-2010 
 
-### Data Dictionary ([*source*](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
+### Data Dictionary ([*source*](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).)
 
 ---
 
