@@ -20,6 +20,7 @@ As a data scientist for Iowa Development Company, I need to determine if a model
 
 **Analysis**
 
+![image](https://media.git.generalassemb.ly/user/43395/files/5cd5f322-7a98-4398-b8a0-7a71018facd8)
 
 ![alt text](https://git.generalassemb.ly/pemurp96/project_2/blob/main/images/home_price_distribution.png)
 
